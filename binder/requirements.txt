@@ -1,4 +1,5 @@
 webdriverdownloader
+geckodriver
 
 selenium
 
