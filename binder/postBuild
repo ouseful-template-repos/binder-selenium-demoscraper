@@ -4,3 +4,6 @@
 #gdd = GeckoDriverDownloader()
 # Currently broken... eg https://github.com/ouseful-template-repos/binder-selenium-demoscraper/issues/1
 #gdd.download_and_install()
+
+import geckodriver_autoinstaller
+geckodriver_autoinstaller.install()
